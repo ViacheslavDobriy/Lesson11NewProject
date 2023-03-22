@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.homepage {
+    padding-top: 40px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 84px;
+}
+
+.header__menu {
+    display: flex;
+    gap: 20px;
+}
+
+.header__button {
+    margin-left: 14px;
+}
+
+.menu__link {
+    text-decoration: none;
+}
+
+.homepage__content {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 39px;
+    margin-bottom: 103px;
+}
+
+.title {
+    margin-bottom: 17px;
+}
+
+.buttons {
+    margin-top: 37px;
+}
