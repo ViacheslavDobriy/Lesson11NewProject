@@ -95,3 +95,14 @@
     align-items: center;
     background-color: #FFFFFF;
 }
+
+.brands {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
+
+.logos {
+    display: flex;
+    gap: 48px;
+    justify-content: center;
+}
