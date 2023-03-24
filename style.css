@@ -106,3 +106,34 @@
     gap: 48px;
     justify-content: center;
 }
+
+.about__us {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.subtitles {
+    margin-bottom: 20px;
+    font-size: 45px;
+    line-height: 53px;
+    color: #000000;
+}
+
+.about__us__text {
+    font-size: 16px;
+    line-height: 150%;
+    color: #666666;
+}
+
+.learn__more {
+    margin-top: 35px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+    border-radius: 50px;
+    border: none;
+    padding: 16px 31px 15px 31px;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
